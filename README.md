@@ -1,3 +1,6 @@
+A starter portfolio created in a brilliant workshop led by [Brittany Walker](https://github.com/brittanyrw) on the 21/08/24 😊
+
+
 # A simple template portfolio example
 
 ![Screenshot of portfolio example project](./docs/demo-screenshot.png)
